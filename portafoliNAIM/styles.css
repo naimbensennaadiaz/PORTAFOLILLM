@@ -1,0 +1,54 @@
+body {
+    margin: 0 auto;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  table {
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  table tr td {
+    border: 0;
+    padding: 0px;
+  }
+  .message {
+    text-align: center;
+    background-color: #ff6200;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 22px;
+    font-weight: bolder;
+  }
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  h3{
+      color:#ff6200;
+      padding: 0px 0 0px 20px;
+      font-size: 22px;
+      margin:0;
+  }
+  .conditions {
+    padding: 20px;
+    font-size: 11px;
+    background-color: #f0f0f0;
+    text-align: justify;
+    line-height: 20px;
+    color: #76768c;
+  }
+  
+  .confirm {
+    padding-bottom: 20px;
+    padding-top: 40px;
+    text-align: center;
+  }
+  .confirm div img{
+      width: 32px;
+      margin-top:20px;
+  }
+  
